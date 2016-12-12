@@ -8,6 +8,7 @@ section p {
 	color: #cc9900
 }
 section h1 {
+	font-family: 'Lora', serif;
 	font: 32px 'Open Sans';
 	font-weight: bold;
 }
